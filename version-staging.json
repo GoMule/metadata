@@ -1,0 +1,6 @@
+{
+  "latestVersion": "R5.3",
+  "downloadUrl": "https://sourceforge.net/projects/gomule/files/gomule/R5.0/GoMuleR5.1-BETA_Resurrected_3.0.zip/download",
+  "checksum": "sha256:abc123",
+  "releaseNotes": "Fixed ordering of error messaging in stash loading"
+}
