@@ -1,6 +1,6 @@
 {
   "latestVersion": "R5.2",
   "downloadUrl": "https://sourceforge.net/projects/gomule/files/gomule/R5.0/GoMuleR5.2-BETA_Resurrected_3.0.zip/download",
-  "checksum": "sha256:a5436ceac64684b15f678eba5a7a5f8946a69bb1a82d589ea1738021f13354b8",
+  "checksum": "sha256:d9cf7baed0d8cbee6cc724c37de6e5afb1536709275b2ff0b3cdf60f64eb1b65",
   "releaseNotes": "Added auto-updater"
 }
