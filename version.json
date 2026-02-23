@@ -1,6 +1,6 @@
 {
-  "latestVersion": "R5.2",
-  "downloadUrl": "https://sourceforge.net/projects/gomule/files/gomule/R5.0/GoMuleR5.2-BETA_Resurrected_3.0.zip/download",
-  "checksum": "sha256:d9cf7baed0d8cbee6cc724c37de6e5afb1536709275b2ff0b3cdf60f64eb1b65",
-  "releaseNotes": "Added auto-updater"
+  "latestVersion": "R5.3",
+  "downloadUrl": "https://sourceforge.net/projects/gomule/files/gomule/R5.0/GoMuleR5.3-BETA_Resurrected_3.0.zip/download",
+  "checksum": "sha256:c6dd4cf1317f83a362b71b5f19fd127a2dea0d5624d45f4e8ada7226028d2b76",
+  "releaseNotes": "Fixed colossal gems, +skills for warlocks"
 }
