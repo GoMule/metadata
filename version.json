@@ -1,6 +1,6 @@
 {
-  "latestVersion": "R5.4",
-  "downloadUrl": "https://sourceforge.net/projects/gomule/files/gomule/R5.0/GoMuleR5.4-BETA_Resurrected_3.0.zip/download",
-  "checksum": "sha256:5cd385841c9c2804800b84b1fef22e48232c63d89f73c749e73e239f18bb4c0e",
-  "releaseNotes": "Fix version checks in updater jar"
+  "latestVersion": "R5.5",
+  "downloadUrl": "https://sourceforge.net/projects/gomule/files/gomule/R5.0/GoMuleR5.5-BETA_Resurrected_3.0.zip/download",
+  "checksum": "sha256:a35b13347022262eca5828541f1dd6b08e018cacfc442c1c2fb9ba12ce346c6d",
+  "releaseNotes": "Fix linux, add autoupdates for launcher jar"
 }
