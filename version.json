@@ -1,6 +1,6 @@
 {
-  "latestVersion": "R5.5",
-  "downloadUrl": "https://sourceforge.net/projects/gomule/files/gomule/R5.0/GoMuleR5.5-BETA_Resurrected_3.0.zip/download",
-  "checksum": "sha256:a35b13347022262eca5828541f1dd6b08e018cacfc442c1c2fb9ba12ce346c6d",
-  "releaseNotes": "Fix linux, add autoupdates for launcher jar"
+  "latestVersion": "R5.6",
+  "downloadUrl": "https://sourceforge.net/projects/gomule/files/gomule/R5.0/GoMuleR5.6-BETA_Resurrected_3.0.zip/download",
+  "checksum": "sha256:c9f35183bfae6495df75769e2b8862bf8e69856ed860f50e7b433c3b1d1001bc",
+  "releaseNotes": "Safer update process, preserve files in directory that gomule doesnt know about"
 }
