@@ -1,6 +1,6 @@
 {
-  "latestVersion": "R5.6",
-  "downloadUrl": "https://sourceforge.net/projects/gomule/files/gomule/R5.0/GoMuleR5.7-BETA_Resurrected_3.0.zip/download",
-  "checksum": "sha256_f30613d8a48a88b5168f35fcfaf6e4d6bc14344df1120fc269cc9e66149497b4",
-  "releaseNotes": "Sorry you need to re-download from https://gomule.sourceforge.net/ - changed checksum logic"
+  "latestVersion": "R5.8",
+  "downloadUrl": "https://sourceforge.net/projects/gomule/files/gomule/R5.0/GoMuleR5.8-BETA_Resurrected_3.0.zip/download",
+  "checksum": "sha256_bb6607968d3a429d0054389a8b7d198621730b65aa7ad84c0651c4c2cdb3e9b3",
+  "releaseNotes": "If this fails - sorry you need to re-download from https://gomule.sourceforge.net/ - changed checksum logic, also fixed problems with unidentified items"
 }
